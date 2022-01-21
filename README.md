@@ -4,7 +4,11 @@ Using CNN (convolutional neural networks) to map forest tree species in high res
 
 Used data from [here](https://zenodo.org/record/4054338#.YIuz1BGRXCI), to create train and test data. The portion that will be used for training will be cropped to `256x256` and augmented then used.
 
+## Expirement 1: Binary classifier using CNN U-Net
+
 Jump to the [notebook](https://github.com/ayoubft/CNN-rgbUAV/blob/main/tree3Classifier-v2.ipynb).
+
+---
 
 ### Architecture of CNN U-Net Credits:
 
