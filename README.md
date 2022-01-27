@@ -10,6 +10,11 @@ Jump to the [notebook](https://github.com/ayoubft/CNN-rgbUAV/blob/main/tree3Clas
 
 ---
 
+### DATA:
+Nguyen, Ha Trang, Diez, Yago, Lopez Caceres, Maximo Larry, Kentsch, Sarah, Moritake, Koma, & Shu, Hase. (2020). Dataset of Individual Sick Fir Detection using Computer Vision and Deep Learning. 
+
+https://doi.org/10.5281/zenodo.4054338
+
 ### Architecture of CNN U-Net Credits:
 
 **Mapping forest tree species in high resolution UAV-based RGB-imagery by means of convolutional neural networks**;
