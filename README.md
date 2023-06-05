@@ -1,6 +1,6 @@
 # CNN-rgbUAV
 
-Using CNN (convolutional neural networks) to map forest tree species in high resolution UAV-based RGB-imagery.
+Using CNN (convolutional neural networks) to map forest tree species from high resolution UAV-based RGB-imagery.
 
 Used data from [here](https://zenodo.org/record/4054338#.YIuz1BGRXCI), to create train and test data. The portion that will be used for training will be cropped to `256x256` and augmented then used.
 
